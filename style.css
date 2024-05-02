@@ -30,58 +30,23 @@ body {
   gap: 5px;
 }
 
-.box-a-1 {
-  width: 60px;
-  height: 60px;
-  background-color: #0aa30a;
-}
-
-.box-a-2 {
-  width: 60px;
-  height: 60px;
-  background-color: #72be20;
-}
-
-.box-a-3 {
-  width: 60px;
-  height: 60px;
-  background-color: #0aa30a;
-}
-
-.box-b-1 {
-  width: 60px;
-  height: 60px;
-  background-color: #72be20;
-}
-
-.box-b-2 {
-  width: 60px;
-  height: 60px;
-  background-color: #0aa30a;
-}
-
-.box-b-3 {
-  width: 60px;
-  height: 60px;
-  background-color: #72be20;
-}
-
-.box-c-1 {
-  width: 60px;
-  height: 60px;
-  background-color: #0aa30a;
-}
-
-.box-c-2 {
-  width: 60px;
-  height: 60px;
-  background-color: #72be20;
-}
-
+.box-a-1,
+.box-a-3,
+.box-b-2,
+.box-c-1,
 .box-c-3 {
   width: 60px;
   height: 60px;
   background-color: #0aa30a;
+}
+
+.box-a-2,
+.box-b-1,
+.box-b-3,
+.box-c-2 {
+  width: 60px;
+  height: 60px;
+  background-color: #72be20;
 }
 
 .container-text {
